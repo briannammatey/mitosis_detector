@@ -16,5 +16,5 @@ We used techniques like Data Augmentation, early stopping, Adam optimizer, and l
 ## Results
 We successfully came to an accuracy of 84% of 26,000+ images over 50 epochs
 
- <img src="https://github.com/briannammatey/mitosis_detector/blob/main/images/matrix_1.png?raw=true" alt="confusian matrix" width="200"/>
+ <img src="https://github.com/briannammatey/mitosis_detector/blob/main/matrix_1.png?raw=true" alt="confusian matrix" width="200"/>
 
